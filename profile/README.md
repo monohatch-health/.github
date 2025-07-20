@@ -10,8 +10,6 @@ Welcome to MonoHatch, a dedicated health companion designed to empower women fro
 
 Founded with a vision to enhance maternal and child health, we are committed to creating a secure, scalable, and user-friendly experience for families worldwide. 🌍
 
-*Note: For animations, see the HTML version below or add custom CSS in a web environment.*
-
 ## Contact Us 📧💬
 - **Email**: [monohatch.health@gmail.com](mailto:monohatch.health@gmail.com)
 - **TikTok**: [https://www.tiktok.com/@mono.hatch](https://www.tiktok.com/@mono.hatch)
