@@ -1,7 +1,7 @@
-# MonoHatch Organization 🌱👶
+# MonoHatch Organization 🌸
 
 ## About Us 🎉
-Welcome to MonoHatch, a dedicated health companion designed to empower women from post-marriage through motherhood and beyond! 🌸 Our mission is to provide reliable, personalized tools to support mothers in managing their well-being and nurturing their children up to age five. 🚀 At MonoHatch, we combine cutting-edge AI technology with accessible healthcare solutions to offer an all-in-one platform. ✨ Our core features include:
+Welcome to MonoHatch, a dedicated health companion designed to empower women from post-marriage through motherhood and beyond! Our mission is to provide reliable, personalized tools to support mothers in managing their well-being and nurturing their children up to age five. 🚀 At MonoHatch, we combine cutting-edge AI technology with accessible healthcare solutions to offer an all-in-one platform. ✨ Our core features include:
 
 - An <span style="color: #00cc00">AI-powered assistant</span> for instant health guidance 💡
 - A <span style="color: #ff6600">Medical Care Access hub</span> to connect with providers 🏥
